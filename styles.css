@@ -105,3 +105,38 @@
     align-items: center;
     padding-bottom: 100px;
 }
+.bg4{
+    margin-top: 60px;
+    background-color: white;
+    flex-direction: row;
+}
+.btn{
+    display: flex;
+    background-color: #3882f6;
+    height: 100px;
+    width: 800px;
+    margin-bottom: 60px;
+    margin-left: 200px;
+    align-items: center;
+    padding-left: 100px;
+    gap: 200px;
+}
+.action{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.product{
+    color: white;
+}
+.tsign{
+    color: #fff;
+    white-space: nowrap;
+    padding: 1em 1.5em;
+    border: none;
+    background-color: wheat;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 800;
+    border-color: white;
+}
